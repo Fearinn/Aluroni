@@ -12,3 +12,8 @@ Project from the course track [React com TypeScript](https://www.alura.com.br/fo
 - Multiple pages;
 - Search bar;
 - Filtering and ordering by different criteria.
+
+## Possible improvements 
+
+- New feature: adding, removing and editing dishes, as admin;
+- New feature: making orders.
