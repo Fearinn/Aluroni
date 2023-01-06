@@ -1,4 +1,4 @@
-# Aluroni
+# 🍝 Aluroni
 
 Project from the course track [React com TypeScript](https://www.alura.com.br/formacao-react-ts).
 
@@ -13,7 +13,7 @@ Project from the course track [React com TypeScript](https://www.alura.com.br/fo
 - Search bar;
 - Filtering and ordering by different criteria.
 
-## Possible improvements 
+## 🧠 Possible improvements 
 
 - New feature: adding, removing and editing dishes, as admin;
 - New feature: making orders.
