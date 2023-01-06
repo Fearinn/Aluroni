@@ -2,12 +2,12 @@
 
 Project from the course track [React com TypeScript](https://www.alura.com.br/formacao-react-ts).
 
-## Goals
+## 🎯 Goals
 
 - Learning and practcing React and React Router;
 - Creating a restaurant website from zero.
 
-## Features 
+## ⚙️ Features 
 
 - Multiple pages;
 - Search bar;
