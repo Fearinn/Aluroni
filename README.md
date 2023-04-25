@@ -1,17 +1,12 @@
 # 🍝 Aluroni
 
-Project from the course track [React com TypeScript](https://www.alura.com.br/formacao-react-ts).
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Aluroni**
+| :label: Tecnologias | react, typescript
+| :book: Course | https://www.alura.com.br/formacao-react-ts
 
-## 🎯 Goals
-
-- Learning and practcing React and React Router;
-- Creating a restaurant website from zero.
-
-## ⚙️ Features 
-
-- Multiple pages;
-- Search bar;
-- Filtering and ordering by different criteria.
+This project mocks a website for a restaurant. With it, I've learned the basics of React and to handle routes and performance issues.
 
 ## 🧠 Possible improvements 
 
